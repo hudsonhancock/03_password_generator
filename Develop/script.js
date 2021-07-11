@@ -94,6 +94,13 @@ function generatePassword() {
         {
         possibleCharacters = possibleCharacters.concat(numeric, special);
         console.log(possibleCharacters);
+    } else if (
+        hasNumericCharacters &&
+        hasSpecialCharacters
+        )
+        {
+        possibleCharacters = possibleCharacters.concat(numeric, special);
+        console.log(possibleCharacters);
     } else if (hasLowerCharacters){
         possibleCharacters = possibleCharacters.concat(lower);
         console.log(possibleCharacters);
