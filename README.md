@@ -1,6 +1,7 @@
 # Password Generator
+[Link to deployed web application](https://hudsonhancock.github.io/03_password_generator/)
 
-![alt text]()
+![screenshot of web app - password generator](https://github.com/hudsonhancock/03_password_generator/blob/main/Assets/screenshot.jpg)
 
 
 This web application will make a secure password for you.
