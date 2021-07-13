@@ -1,5 +1,8 @@
 # Password Generator
 
+![alt text]()
+
+
 This web application will make a secure password for you.
 
 ## Installation
